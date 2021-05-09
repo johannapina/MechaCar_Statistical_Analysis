@@ -34,10 +34,21 @@ According to the T-tests conducted on each of the lots, none were significantly 
 
 ## Study Design: MechaCar vs Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. 
+
+Any statistical study begins with a question or set of questions. We might the answers to in whic areas does the MechaCar out perform the competion? These areas could include a comparison analysis of mpg, safety, price, speed, off-road performance and more. For the purpose of this analysis we will discuss mpg. 
 
 In your description, address the following questions:
 What metric or metrics are you going to test?
+An evaluation of mpg of MechaCars compared high sale cars of other brands, sorted by vehicle type (sedan, SUV, etc.). 
+
 What is the null hypothesis or alternative hypothesis?
+h1= The Mechacar will outperform the highest selling competion vehicle in all categories by giving the driver more mioles per gallon. 
+
+h0= h1= The Mechacar will not outperform the highest selling competion vehicle in all categories and will give the driver less miles per gallon. 
+
 What statistical test would you use to test the hypothesis? And why?
+The t-test would be the best statistical test for this purpose. The t-test will determine if there is significant difference between the means of our groups (competion vs. MechaCar). 
+
 What data is needed to run the statistical test?
+Data needed would include the mean mpg of each vehicle sorted by category. 
