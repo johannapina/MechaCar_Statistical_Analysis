@@ -45,7 +45,7 @@ An evaluation of mpg of MechaCars compared high sale cars of other brands, sorte
 What is the null hypothesis or alternative hypothesis?
 h1= The Mechacar will outperform the highest selling competion vehicle in all categories by giving the driver more mioles per gallon. 
 
-h0= h1= The Mechacar will not outperform the highest selling competion vehicle in all categories and will give the driver less miles per gallon. 
+h0= The Mechacar will not outperform the highest selling competion vehicle in all categories and will give the driver less miles per gallon. 
 
 What statistical test would you use to test the hypothesis? And why?
 The t-test would be the best statistical test for this purpose. The t-test will determine if there is significant difference between the means of our groups (competion vs. MechaCar). 
